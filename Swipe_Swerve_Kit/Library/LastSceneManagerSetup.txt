@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/SwipeSwerve Detection/DemoScenes/SwerveExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
