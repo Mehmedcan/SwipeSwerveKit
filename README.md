@@ -9,8 +9,7 @@ SwipeListener
 4) Get the outputs by connecting another script' to "Run Function" Action.
 
 # Swipe Listener 
-![Screen Shot 2021-08-10 at 12 14 50](https://user-images.githubusercontent.com/44032886/128858130-762c5a63-8255-45e0-8cfd-ef332de61903.png)
-![Screen Shot 2021-08-10 at 12 14 25](https://user-images.githubusercontent.com/44032886/128858284-f5110155-9038-4cb6-abe4-152e0023354e.png)
+![Screen Shot 2021-08-10 at 14 23 28](https://user-images.githubusercontent.com/44032886/128858822-f277d210-fa57-4555-9a1a-65cf25514703.png)
 
 SwerveListener
 1) Download project or scripts and upload them to your project.
@@ -19,3 +18,4 @@ SwerveListener
 4) Get the outputs by connecting another script' to "Run Function" Action.
 
 # Swerve Listener 
+![Screen Shot 2021-08-10 at 14 24 13](https://user-images.githubusercontent.com/44032886/128858851-2288ce74-0f0e-4a12-89c4-d1ada0dd64e4.png)
